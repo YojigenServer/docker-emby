@@ -1,3 +1,3 @@
-FROM linuxserver/doublecommander:version-05a2665a
+FROM ghcr.io/linuxserver/emby:4.8.5
 
 COPY happy/* /system/
